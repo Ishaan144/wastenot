@@ -2,6 +2,8 @@
 
 **An AI-powered mobile app that plans your meals around the food you already own — before it goes in the bin.**
 
+### ▶️ [Try the live demo](https://ishaan144.github.io/wastenot/) — runs in your browser, no install
+
 Built by [Ishaan Tatlay](https://www.linkedin.com/in/ishaan-tatlay-6a417a360) · West Island College
 
 ---
