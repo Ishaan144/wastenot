@@ -1,0 +1,32 @@
+# ---- secrets: never commit these ----
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p8
+*.p12
+*.jks
+*.mobileprovision
+
+# ---- dependencies (rebuild with `npm install`) ----
+node_modules/
+
+# ---- Expo / build output ----
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+/ios
+/android
+.metro-health-check*
+
+# ---- logs ----
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# ---- editor / OS junk ----
+.DS_Store
+.vscode/
+*.tsbuildinfo

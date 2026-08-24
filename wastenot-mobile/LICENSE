@@ -1,0 +1,34 @@
+Copyright © 2026 Ishaan Tatlay. All rights reserved.
+
+WasteNot — an AI-powered household food waste reduction app.
+
+This source code is made publicly viewable for educational, portfolio, and
+evaluation purposes only (including review by universities and employers).
+
+You MAY:
+  • View and read this source code.
+  • Reference it when evaluating the author's work.
+
+You MAY NOT, without prior written permission from the copyright holder:
+  • Copy, reproduce, or redistribute this source code, in whole or in part.
+  • Modify this source code or create derivative works from it.
+  • Use this source code, or any substantial portion of it, in any other
+    project, product, or service.
+  • Publish, sublicense, sell, or otherwise commercially exploit this
+    source code or any application built from it.
+
+No license, express or implied, is granted to any patent, trademark, trade
+name, or other intellectual property of the copyright holder. "WasteNot" and
+its associated branding are claimed as trademarks of the author.
+
+Third-party components (React Native, Expo, and the packages listed in
+package.json) remain the property of their respective owners and are governed
+by their own licenses.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE
+USE OF THIS SOFTWARE.
+
+For licensing enquiries, contact: Ishaan.tatlay@gmail.com
